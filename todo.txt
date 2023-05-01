@@ -1,0 +1,6 @@
+1. Draw project features and architecture
+2. Decide on tools (db, framework)
+3. Figure project structure
+4. Implement Authentication
+5. Implement basic routes
+6. Improve, Improve...
